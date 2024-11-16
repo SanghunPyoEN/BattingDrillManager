@@ -12,5 +12,15 @@ The feature of this code is
 
 in the slow motion video of batting drill.
 
+-[v0.1]
+Input: 1/8 Slow motion frames
+Output:
+1. Check the velocity and launch angle with calibration with object in the frame
+
+-[v0.2]
+Output:
+1. Check the velocity and launch angle with calibration with object in the frame
+2. 3D human pose of batter
+
 
 
