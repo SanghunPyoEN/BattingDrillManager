@@ -17,6 +17,9 @@ Input: 1/8 Slow motion frames
 Output:
 1. Check the velocity and launch angle with calibration with object in the frame
 
+   <dataset>
+   gdown 14XL1fIUdEN0hmA2K4ZXtuLOQV7v8kmTM
+
 -[v0.2]
 Output:
 1. Check the velocity and launch angle with calibration with object in the frame
